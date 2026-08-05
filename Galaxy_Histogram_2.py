@@ -5,6 +5,10 @@ Created on Fri Dec 13 15:26:58 2024
 
 @author: lorrainemarcelin
 """
+"""
+Creating histograms using the data extracted from a Pandas table containing the galactic parameters 
+for visualization and further analysis. 
+"""
 
 
 #Creating historgrams of the half radius of the galaxies
