@@ -5,7 +5,10 @@ Created on Tue Jul  2 12:28:20 2024
 
 @author: lorrainemarcelin
 """
-'''Making indiviual cutouts of every galaxy in an image'''
+'''
+Making indiviual segmentation map cutouts of every galaxy in a FITS image using the galaxy center coordinates.
+The segmentation map is used for source detection and cross referencing in the statmorph fitting process.
+'''
 import numpy as np
 from astropy.io import fits
 from astropy.nddata.utils import Cutout2D
