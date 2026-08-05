@@ -5,6 +5,10 @@ Created on Wed Jun 12 11:58:10 2024
 
 @author: lorrainemarcelin
 """
+"""
+Creates small cutout images of the galaxies around the coordinates of the galactic center.
+Cutouts are made from a FITS file and saved as a FITS file.
+"""
 #import library
 import numpy as np
 from astropy.io import fits
