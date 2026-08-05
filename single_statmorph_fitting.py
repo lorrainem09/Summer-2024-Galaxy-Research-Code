@@ -6,7 +6,7 @@ Created on Tue Jul  9 11:59:14 2024
 @author: lorrainemarcelin
 """
 
-"""individual edits of the statmorph fitting"""
+"""Statmorph fitting of a single galaxy at a time to extract non-parametric morphological measurements"""
 
 import numpy as np
 import matplotlib.pyplot as plt
