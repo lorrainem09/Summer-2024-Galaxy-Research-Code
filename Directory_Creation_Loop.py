@@ -5,6 +5,9 @@ Created on Fri Jun 28 12:37:07 2024
 
 @author: lorrainemarcelin
 """
+"""
+Creates a directory of all the galaxy files with galaxy number and density region.
+"""
 
 import shutil
 from glob import glob
