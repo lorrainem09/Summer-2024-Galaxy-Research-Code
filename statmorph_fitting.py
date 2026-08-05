@@ -6,6 +6,9 @@ Created on Tue Jul  2 12:42:40 2024
 @author: lorrainemarcelin
 
 """
+"""
+For loop indexing over all galaxies in the directory to automate the statmorph fitting process.
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 import statmorph
