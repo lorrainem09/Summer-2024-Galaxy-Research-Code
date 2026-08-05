@@ -5,6 +5,10 @@ Created on Wed Jul 31 13:25:14 2024
 
 @author: lorrainemarcelin
 """
+"""
+Determines the redshift, angular separation,physical separation 
+and restframe velocity, between any two galaxies given the center coordinates.
+"""
 
 import numpy as np
 from astropy.io import ascii
